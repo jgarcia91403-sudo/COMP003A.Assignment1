@@ -14,6 +14,8 @@
             Console.WriteLine("Playing poker with my family!");
             Console.WriteLine("My favorite video game to play is madden that is football!");
             Console.WriteLine("My favorite tv show is supernatrual!");
+            Console.WriteLine("My favorite movie to watch is Jaws!");
+
         }
     }
 }
