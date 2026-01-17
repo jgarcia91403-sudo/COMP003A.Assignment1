@@ -1,4 +1,6 @@
-﻿namespace COMP003A.Assignment1
+﻿using System.Runtime.CompilerServices;
+
+namespace COMP003A.Assignment1
 {
     internal class Program
     {
@@ -55,6 +57,16 @@
             Console.WriteLine("the most i can squat is 450!");
             Console.WriteLine("The most i can deadlift is 500 without a belt!");
             Console.WriteLine("I Like to go hiking every now and then!");
+            Console.WriteLine("I Like to go to the zoo with my family!");
+            Console.WriteLine("My favorite holiday is Halloween!");
+            Console.WriteLine("My favorite fishing spot is shaver lake!");
+            Console.WriteLine("I been camping at the beach");
+            Console.WriteLine("I like taking picture of Nature");
+            Console.WriteLine("I like watching catch and coock youtube videos!");
+            Console.WriteLine("I like working ahead on assinments if im able to");
+            Console.WriteLine("Im trying to learn a diffrent language!");
+            Console.WriteLine("This is my third year of college!");
+            Console.WriteLine("I been trying to learn how to snowbored!");
         }
     }
 }
