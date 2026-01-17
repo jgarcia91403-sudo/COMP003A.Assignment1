@@ -87,6 +87,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("my least favorite animal is a jelly fish!");
             Console.WriteLine("My most favorite animal in the wild is a tiger!");
             Console.WriteLine("I trie collecting rare coins!");
+            Console.WriteLine("My favorite coffe shop is starbucks1");
+            Console.WriteLine("The longest i been camping is a week!");
+            Console.WriteLine("I cant name all 50 states!");
+            Console.WriteLine("My least favorite game to play is Minecraft!");
+            Console.WriteLine("Im trying to build a pc tower from scratch!");
+            Console.WriteLine("I dont know how to drive stick shift!");
+            Console.WriteLine("My dream car is a mustange but i want to build it from scratch!");
+            Console.WriteLine("I enjoy learning diffrent culture!");
+            Console.WriteLine("My favorite chips are pringles BBQ!");
+            Console.WriteLine("my favorite soda is dr pepper!");
         }
     }
 }
