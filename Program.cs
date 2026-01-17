@@ -35,7 +35,16 @@
             Console.WriteLine("I graduted high school in 2022!");
             Console.WriteLine("I enjoy working on cars during my free time!");
             Console.WriteLine("I been deep sea fishing 2 times!");
-
+            Console.WriteLine("my least favorite sport is Boxing!");
+            Console.WriteLine("The car that i drive is a Ford Edge!");
+            Console.WriteLine("I play fantasy Football with my Family!");
+            Console.WriteLine("Im very competitive when it comes to sports!");
+            Console.WriteLine("I know how to weld!");
+            Console.WriteLine("I play a lot of spades with my family!");
+            Console.WriteLine("I am very easy to get along with!");
+            Console.WriteLine("I Know how to build a fence!");
+            Console.WriteLine("I know how to do concreat!");
+            Console.WriteLine("I know how to do tile floring!");
         }
     }
 }
