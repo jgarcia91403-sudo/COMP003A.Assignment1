@@ -77,6 +77,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("My favorite artist to listen to is Melly!");
             Console.WriteLine("The song i Listen to the Most is Mocking bird!");
             Console.WriteLine("I like to grill tritip for family events!");
+            Console.WriteLine("I been saving up to buy another car!");
+            Console.WriteLine("I coach my siblings in sports so they can be prepaired!");
+            Console.WriteLine("I enjoy playing vollyball with my family when we go to the park!");
+            Console.WriteLine("I dont know a lot about computers!");
+            Console.WriteLine("My birth month is september so my zodiac sign is a virgo!");
+            Console.WriteLine("my favorit energy drink are Monsters!");
+            Console.WriteLine("my favorit resturant to eat at is applebees!");
+            Console.WriteLine("my least favorite animal is a jelly fish!");
+            Console.WriteLine("My most favorite animal in the wild is a tiger!");
+            Console.WriteLine("I trie collecting rare coins!");
         }
     }
 }
