@@ -97,6 +97,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("I enjoy learning diffrent culture!");
             Console.WriteLine("My favorite chips are pringles BBQ!");
             Console.WriteLine("my favorite soda is dr pepper!");
+            Console.WriteLine("the shoe brand that i like is Nike!");
+            Console.WriteLine("My favorit NBA player is Kobe!");
+            Console.WriteLine("I played sports my entire life!");
+            Console.WriteLine("I can do the alphabet back words!");
+            Console.WriteLine("I enjoy star gazing when i go camping!");
+            Console.WriteLine("my least favorit movie is star wars!");
+            Console.WriteLine("I enjoy spending as much time with my friends and family!");
+            Console.WriteLine("I built a trailer in my agriculture class in high school!");
+            Console.WriteLine("I help people who need it if im able to understand what they need done");
+            Console.WriteLine("I know how to repair video game consoles!");
         }
     }
 }
