@@ -45,6 +45,16 @@
             Console.WriteLine("I Know how to build a fence!");
             Console.WriteLine("I know how to do concreat!");
             Console.WriteLine("I know how to do tile floring!");
+            Console.WriteLine("I know how to do eletricale!");
+            Console.WriteLine("I know how to drive a forklift!");
+            Console.WriteLine("I know a little bit about construction!");
+            Console.WriteLine("I been to one NFL game!");
+            Console.WriteLine("I been to one profesinal baseball game!");
+            Console.WriteLine("I enjoy going to the gym!");
+            Console.WriteLine("the most i can benchpress is 200!");
+            Console.WriteLine("the most i can squat is 450!");
+            Console.WriteLine("The most i can deadlift is 500 without a belt!");
+            Console.WriteLine("I Like to go hiking every now and then!");
         }
     }
 }
