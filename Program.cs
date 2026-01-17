@@ -67,6 +67,16 @@ namespace COMP003A.Assignment1
             Console.WriteLine("Im trying to learn a diffrent language!");
             Console.WriteLine("This is my third year of college!");
             Console.WriteLine("I been trying to learn how to snowbored!");
+            Console.WriteLine("I caught every fish there is in the vally!");
+            Console.WriteLine("I was raised in lemoore my entire life!");
+            Console.WriteLine("I been to the 5c summer camp that lemoore college has for kids!");
+            Console.WriteLine("I was never good in school until i got glasses!");
+            Console.WriteLine("I like to play chess againts my friend!");
+            Console.WriteLine("I know how to drive a truck with a trailer1");
+            Console.WriteLine("I like to Lisren to every type of music!");
+            Console.WriteLine("My favorite artist to listen to is Melly!");
+            Console.WriteLine("The song i Listen to the Most is Mocking bird!");
+            Console.WriteLine("I like to grill tritip for family events!");
         }
     }
 }
